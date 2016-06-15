@@ -2,8 +2,8 @@
 * 
 * App Name: Scavengerhunt
 *
-* Student Name: Nursat S. Kakon
-* 
-*
+* Student Name: Nursat Sultana Kakon
+* Asian University for Women
+* Bangladesh
 * 
 * /
