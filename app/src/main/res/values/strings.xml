@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scavengerhunt</string>
+    <string-array name="clues">
+        <item>Clue 0: Speak French</item>
+        <item>Clue 1: Play Guitar</item>
+        <item>Clue 2: Busketball Winner</item>
+    </string-array>
+</resources>
